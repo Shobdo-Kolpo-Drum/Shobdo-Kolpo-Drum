@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shobdo-Kolpo-Drum
 - 👀 I’m interested in Listening
-- 🌱 I’m currently learning Brail
+- 🌱 I’m currently learning Braille
 - 💞️ I’m looking to collaborate on this project
 - 📫 How to reach me contact me on github
 
